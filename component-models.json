@@ -218,7 +218,7 @@
         "name": "classes",
         "value": "",
         "label": "Background Color",
-        "description": "The marquee background color",
+        "description": "Background Colorr",
         "valueType": "string",
         "options": [
           {
