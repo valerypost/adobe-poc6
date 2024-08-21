@@ -212,6 +212,23 @@
         "name": "author",
         "label": "Author",
         "value": ""
+      },
+      {
+        "component": "select",
+        "name": "color",
+        "value": "grey",
+        "label": "Color",
+        "valueType": "string",
+        "options": [
+          {
+            "name": "red",
+            "value": "red"
+          },
+          {
+            "name": "blue",
+            "value": "blue"
+          }
+        ]
       }
     ]
   }
