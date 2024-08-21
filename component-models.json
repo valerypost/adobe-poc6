@@ -215,18 +215,23 @@
       },
       {
         "component": "select",
-        "name": "color",
-        "value": "grey",
-        "label": "Color",
+        "name": "classes",
+        "value": "",
+        "label": "Background Color",
+        "description": "The marquee background color",
         "valueType": "string",
         "options": [
           {
-            "name": "red",
-            "value": "red"
+            "name": "Red",
+            "value": "bg-red"
           },
           {
-            "name": "blue",
-            "value": "blue"
+            "name": "Green",
+            "value": "bg-green"
+          },
+          {
+            "name": "Blue",
+            "value": "bg-blue"
           }
         ]
       }
