@@ -28,15 +28,15 @@
     width: 30px;
 
 }
-.block.quote.bg-red {
 
+.block.quote.bg-red {
     background-color: red;
 }
-.block.quote.bg-green {
 
+.block.quote.bg-green {
     background-color: green;
 }
-.block.quote.bg-blue {
 
+.block.quote.bg-blue {
     background-color: deepskyblue;
 }
